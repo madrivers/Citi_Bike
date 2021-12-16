@@ -27,7 +27,7 @@ Finally we are able to see that those customers that are subscribers use the ser
 ![By User Type](https://github.com/madrivers/Citi_Bike/blob/main/Images/Trips%20by%20Day%20by%20Gender%20by%20User%20Type_Heatmap.png)
 
 ## Summary
-These visualizations have the potential to provide excellent insights into the trends of a business that woudl be critical for exansion discussions within the same city or expansion into other cities.  In order for the data to be applicable for new cities, a tableau analysis on the demographics of the cities and how they compare to the baseline would be very helpful.
+These visualizations have the potential to provide excellent insights into the trends of a business that would be critical for exansion discussions within the same city or expansion into other cities.  In order for the data to be applicable for new cities, a tableau analysis on the demographics of the cities and how they compare to the baseline would be very helpful.  From a business standpoint in order to attract additional investors, visualizations that depict revenue, cost and profit by a variety of demographics would be very useful.
 
 More Detail and the abilityt to toggle through filters can be done via my base model at:
 [Link to Dashboard](https://public.tableau.com/app/profile/alejandro.rios3687)
