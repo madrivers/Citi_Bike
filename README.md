@@ -1,4 +1,4 @@
-# Citi_Bike Challenge
+# Citi Bike Analytics
 
 ## Overview
 The purpose of this analysis is focused on usage and the downstream impacts of usage for bicycles in a specific city.  The usage is broken up by Gender, Age, Customer Type among others. This type of data allows to quickly categorize summary level information such as starting locations for rides
